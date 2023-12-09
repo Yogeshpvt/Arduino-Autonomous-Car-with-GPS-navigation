@@ -1,4 +1,4 @@
-void inputDestination() {       // The function that will allow us to input our destination coordinates.
+void inputDestination() {  
 
   char d;
   bool Quit = true;
